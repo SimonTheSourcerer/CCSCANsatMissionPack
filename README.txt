@@ -1,4 +1,5 @@
-SCANsat Mission Pack for Contract Configurator
+﻿SCANsat Mission Pack for Contract Configurator
+Version 1.0
 Created by tattagreis
 
 Copyright © 2014 tattagreis
