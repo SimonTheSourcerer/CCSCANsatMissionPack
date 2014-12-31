@@ -1,0 +1,6 @@
+1.0.1
+	- Changing the orbit to one not covered by the parameter now stops the timer
+	- Fixed minor errors created in while testing
+	- Added VERSION file, thanks to nightingale!
+1.0.0
+	- Initial release
