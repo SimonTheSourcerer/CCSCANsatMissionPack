@@ -5,7 +5,7 @@ Created by tattagreis
 Copyright © 2014 tattagreis
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the COPYING file for more details.
+as published by Sam Hocevar. See the LICENSE file for more details.
 
 Adds a scan mission for each scannable main planet and Kerbin's moons.
 Covered planets: Moho, Eve, Kerbin, Mun, Minmus, Duna, Dres, Eeloo
@@ -22,3 +22,8 @@ How to install?
 1. Install Contract Configurator (> v0.4.2) and SCANsat(> v8.1)
 2. Unzip the GameData folder into your KSP folder
 
+
+Annoyed by beeing forced to do the scan in a specific way?
+The missions can easily be changed by removing parameters. 
+
+Do no forget to cancel the old one and reaccepting it to get new parameters.
