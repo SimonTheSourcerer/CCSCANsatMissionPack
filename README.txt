@@ -16,7 +16,7 @@ Any suggestions or corrections? Send a note to:
 http://forum.kerbalspaceprogram.com/members/118968-tattagreis
 
 How to install?
-1. Install Contract Configurator (>= v0.4.2) and SCANsat(>= v9.0)
+1. Install Contract Configurator (>= v0.4.3) and SCANsat(>= v9.0)
 2. Unzip the GameData folder into your KSP folder
 
 
