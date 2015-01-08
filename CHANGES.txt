@@ -1,8 +1,8 @@
 1.0.2
-	- Altered parameter to fit to Contract Configurators new API. No Works only for CC v.0.5.0
+- Altered parameter to fit to Contract Configurators new API. No Works only for CC v.0.5.0
 1.0.1
-	- Changing the orbit to one not covered by the parameter now stops the timer
-	- Fixed minor errors created in while testing
-	- Added VERSION file, thanks to nightingale!
+- Changing the orbit to one not covered by the parameter now stops the timer
+- Fixed minor errors created in while testing
+- Added VERSION file, thanks to nightingale!
 1.0.0
-	- Initial release
+- Initial release
