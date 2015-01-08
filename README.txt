@@ -1,8 +1,6 @@
 ﻿SCANsat Mission Pack for Contract Configurator
 Created by tattagreis
 
-!!!Due an unexpected behavior from SCANsat scan missions will only work for Kerbin until next CC update!!!
-
 Adds a scan mission for each scannable main planet and Kerbin's moons.
 Covered planets: Moho, Eve, Kerbin, Mun, Minmus, Duna, Dres, Eeloo
 
@@ -16,7 +14,7 @@ Any suggestions or corrections? Send a note to:
 http://forum.kerbalspaceprogram.com/members/118968-tattagreis
 
 How to install?
-1. Install Contract Configurator (>= v0.4.3) and SCANsat(>= v9.0)
+1. Install Contract Configurator (>= v0.4.4) and SCANsat(>= v9.0)
 2. Unzip the GameData folder into your KSP folder
 
 
