@@ -1,3 +1,5 @@
+1.0.3
+- Altered parameter to fit to Contract Configurators new API. Should work for CC v.0.5.4
 1.0.2
 - Altered parameter to fit to Contract Configurators new API. No Works only for CC v.0.5.0
 1.0.1
