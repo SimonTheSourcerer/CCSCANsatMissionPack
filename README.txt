@@ -1,3 +1,5 @@
+Stopped in development, please use: DBT85's pack: http://forum.kerbalspaceprogram.com/threads/108097-0-90-Contract-Pack-SCANSat-v0-5-0-2015-01-22 instead.
+
 ﻿SCANsat Mission Pack for Contract Configurator
 Created by tattagreis
 
