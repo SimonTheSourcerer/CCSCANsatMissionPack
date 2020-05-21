@@ -1,6 +1,6 @@
 {
      "NAME":"SCANsat Mission Pack",
-	 "URL":"https://raw.githubusercontent.com/SimonTheSourcerer/CCSCANsatMissionPack/master/GameData/CC_Contracts/SCANsat/CCSCANsatMissionPack.cfg",
+	 "URL":"https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/raw/master/GameData/ContractPacks/SCANsat/CCSCANsatMissionPack.version",
 	 "DOWNLOAD":"https://github.com/SimonTheSourcerer/CCSCANsatMissionPack/releases",
      "GITHUB":{
          "USERNAME":"SimonTheSourcerer",
